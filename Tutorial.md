@@ -1,7 +1,8 @@
 Installing Arduino, OSC, Python on the chromebook
 -------------------------------------------------
 
-SOURCES: http://lifehacker.com/how-to-install-linux-on-a-chromebook-and-unlock-its-ful-509039343
+SOURCES: 
+http://lifehacker.com/how-to-install-linux-on-a-chromebook-and-unlock-its-ful-509039343
 http://www.howtogeek.com/210817/how-to-enable-developer-mode-on-your-chromebook/ 
 https://liliputing.com/2014/06/asus-c200-chromebook-enabling-dev-mode-installing-ubuntu.html 
 http://playground.arduino.cc/Linux/Ubuntu 
