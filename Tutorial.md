@@ -114,8 +114,9 @@ PART 4-SHORT) Installing things (short version)
  1. Open up chronos (Ctrl-Alt-T)
  2. Open ubuntu
 
-      **shell**
-      **sudo startlxde**
+    **shell**
+
+    **sudo startlxde**
 
  3. Open terminal 
  ![enter image description here](/pictures/terminal.jpg)
